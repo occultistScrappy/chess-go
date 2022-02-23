@@ -1,0 +1,10 @@
+**/cxx*
+**/.vscode*
+
+*.o
+*.exe
+*.log
+*.bat
+*.cmd
+*.sh
+*.txt
